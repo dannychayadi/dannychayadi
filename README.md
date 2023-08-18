@@ -1,5 +1,4 @@
-# Writing
-
+[a relative link](other_file.md)
 # Work
 
 <!--
