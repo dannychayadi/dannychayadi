@@ -1,3 +1,5 @@
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 I'm currently working on my own project.
 
 I'm about moving to Singapore.
