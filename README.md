@@ -1,4 +1,4 @@
-:computer:I'm currently working on my own project.
+:computer:I'm currently working on my own projects.
 
 I'm about moving to Singapore.
 
